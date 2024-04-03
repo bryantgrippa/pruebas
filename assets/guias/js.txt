@@ -1,0 +1,52 @@
+onclick—Este atributo responde al evento click. El evento se ejecuta cuando el usuario 
+hace clic con el botón izquierdo del ratón. HTML ofrece otros dos atributos similares 
+llamados 
+
+ondblclick (el usuario hace doble clic con el botón izquierdo del ratón) y 
+
+oncontextmenu (el usuario hace clic con el botón derecho del ratón). 
+
+onmousedown—Este atributo responde al evento mousedown. Este evento se 
+desencadena cuando el usuario pulsa el botón izquierdo o el botón derecho del ratón. 
+
+onmouseup—Este atributo responde al evento mouseup. El evento se desencadena 
+cuando el usuario libera el botón izquierdo del ratón. 
+
+onmouseenter—Este atributo responde al evento mouseenter. Este evento se 
+desencadena cuando el ratón se introduce en el área ocupada por el elemento. 
+
+onmouseleave—Este atributo responde al evento mouseleave. Este evento se 
+desencadena cuando el ratón abandona el área ocupada por el elemento. 
+
+onmouseover—Este atributo responde al evento mouseover. Este evento se desencadena 
+cuando el ratón se mueve sobre el elemento o cualquiera de sus elementos hijos. 
+
+onmouseout—Este atributo responde al evento mouseout. El evento se desencadena 
+cuando el ratón abandona el área ocupada por el elemento o cualquiera de sus elementos hijos. 
+
+onmousemove—Este atributo responde al evento mousemove. Este evento se 
+desencadena cada vez que el ratón se encuentra sobre el elemento y se mueve. 
+
+onwheel—Este atributo responde al evento wheel. Este evento se desencadena cada 
+vez que se hace girar la rueda del ratón. 
+
+----------------------------------------------------------------------------
+Los siguientes son los atributos disponibles para responder a eventos generados por el 
+teclado. Estos tipos de atributos se aplican a elementos que aceptan una entrada del usuario, 
+como los elementos <input> y <textarea>. 
+----------------------------------------------------------------------------
+
+onkeypress—Este atributo responde al evento keypress. Este evento se desencadena 
+cuando se activa el elemento y se pulsa una tecla. 
+
+onkeydown—Este atributo responde al evento keydown. Este evento se desencadena 
+cuando se activa el elemento y se pulsa una tecla. 
+
+onkeyup—Este atributo responde al evento keyup. Este evento se desencadena cuando 
+se activa el elemento y se libera una tecla. 
+
+onload—Este atributo responde al evento load. El evento se desencadena cuando un 
+recurso termina de cargarse.
+
+onunload—Este atributo responde al evento unload. Este evento se desencadena 
+cuando un recurso termina de cargarse. 
